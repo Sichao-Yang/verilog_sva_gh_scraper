@@ -1,0 +1,5 @@
+,clone_url,created_at,description,forks_count,full_name,id,language,name,size,stargazers_count,updated_at,topics,license_url
+0,https://github.com/sach/System-Verilog-Packet-Library.git,2011-02-15 01:09:10+00:00,"System-Veilog Packet Library to configure, randomize, pack/unpack, copy, compare/display different headers",21,sach/System-Verilog-Packet-Library,1367664,SystemVerilog,System-Verilog-Packet-Library,653,61,2024-03-28 03:21:38+00:00,[],None
+1,https://github.com/dagget/programming.git,2011-02-27 10:57:15+00:00,code examples and proof of concepts,1,dagget/programming,1417558,SystemVerilog,programming,549,3,2023-12-19 09:40:53+00:00,[],None
+2,https://github.com/bosson/balancebook.git,2011-02-06 14:16:42+00:00,"Web ledger based on EU and SE bookkeeping standards, xml, xslt, servlets and jquery",0,bosson/balancebook,1334429,SystemVerilog,balancebook,239,1,2014-10-07 06:32:59+00:00,[],None
+3,https://github.com/mcgrue/sots.git,2010-12-27 01:37:41+00:00,Saga of the Stars,0,mcgrue/sots,1199571,SystemVerilog,sots,15073,1,2022-08-31 23:43:31+00:00,[],None
