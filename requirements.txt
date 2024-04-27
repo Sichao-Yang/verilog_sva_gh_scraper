@@ -1,1 +1,5 @@
 PyGithub>=2.3.0
+tqdm
+numpy
+pandas
+python-dotenv
