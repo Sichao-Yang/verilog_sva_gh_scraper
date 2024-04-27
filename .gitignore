@@ -1,2 +1,4 @@
 .env
 data/full_repos/*
+logs/*
+*.txt
